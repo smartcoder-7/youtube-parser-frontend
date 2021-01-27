@@ -1,1 +1,11 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# README
+
+## Youtube Data Parser Frontend
+
+### Development
+
+```
+yarn install
+
+yarn dev --port 4000
+```
